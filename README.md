@@ -2,7 +2,7 @@
 
 > Spatial intelligence & multi-sensor tactical mapping — real-time command dashboard for vehicles and bunkers over lossy links.
 
-- **Status:** Concept, TRL 1–2. Spec only — no code yet.
+- **Status:** Designed on paper: architecture, data model and interfaces are written. No code yet; the working prototype is next (gated behind the AeroPulse-NG trial report and a resource review).
 - **Source:** Specification Overview PDF, System 3/4.
 - **BOLTE fit:** Goal 1 (situational awareness), Goal 5 (computing & AI / communications), reuses AeroPulse-NG fusion + offline-first lessons.
 
